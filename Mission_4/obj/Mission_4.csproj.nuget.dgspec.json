@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/Austin/Documents/GitHub/Mission_4/Mission_4/Mission_4/Mission_4.csproj": {}
+    "/Users/Austin/Documents/GitHub/Mission_4/Mission_4/Mission_4.csproj": {}
   },
   "projects": {
-    "/Users/Austin/Documents/GitHub/Mission_4/Mission_4/Mission_4/Mission_4.csproj": {
+    "/Users/Austin/Documents/GitHub/Mission_4/Mission_4/Mission_4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/Austin/Documents/GitHub/Mission_4/Mission_4/Mission_4/Mission_4.csproj",
+        "projectUniqueName": "/Users/Austin/Documents/GitHub/Mission_4/Mission_4/Mission_4.csproj",
         "projectName": "Mission_4",
-        "projectPath": "/Users/Austin/Documents/GitHub/Mission_4/Mission_4/Mission_4/Mission_4.csproj",
+        "projectPath": "/Users/Austin/Documents/GitHub/Mission_4/Mission_4/Mission_4.csproj",
         "packagesPath": "/Users/Austin/.nuget/packages/",
-        "outputPath": "/Users/Austin/Documents/GitHub/Mission_4/Mission_4/Mission_4/obj/",
+        "outputPath": "/Users/Austin/Documents/GitHub/Mission_4/Mission_4/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/Austin/.config/NuGet/NuGet.Config"
@@ -41,6 +41,26 @@
             "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation": {
               "target": "Package",
               "version": "[3.1.22, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.22, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.22, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[3.1.22, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.22, )"
             }
           },
           "imports": [
@@ -61,7 +81,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/6.0.101/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/6.0.102/RuntimeIdentifierGraph.json"
         }
       }
     }

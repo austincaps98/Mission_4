@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{BC6F1078-C228-4412-A12D-EF868F98C31F}|Default">
+  <MonoDevelop.Ide.ItemProperties.Mission__4 PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Mission_4/Program.cs">
+    <Files>
+      <File FileName="Mission_4/Views/Home/Library.cshtml" Line="34" Column="1" />
+      <File FileName="Mission_4/Models/Categories.cs" />
+      <File FileName="Mission_4/Program.cs" Line="16" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Mission_4" expanded="True">
+            <Node name="Mission_4" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+              </Node>
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
